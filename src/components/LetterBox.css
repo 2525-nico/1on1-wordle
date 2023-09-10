@@ -1,0 +1,7 @@
+.letterBox {
+    display: inline-block;
+    width: 20%;
+    border-bottom: solid 2px black;
+    text-align: center;
+    font-size: xx-large;
+}
